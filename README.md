@@ -37,8 +37,11 @@ The application uses a recursive descent parser approach to parse and evaluate m
 
 ### How It Works
 Parsing: The input expression is parsed recursively using a parser that handles parentheses, operators, and functions.
+
 Evaluation: After parsing, the expression is evaluated step by step according to mathematical rules and functions.
+
 Error Handling: Malformed expressions are detected and reported as errors, ensuring robustness.
+
 Extensibility: The code is designed to support easy addition of new functions or operators if needed.
 ### Example
  ```bash
