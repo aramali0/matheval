@@ -14,15 +14,16 @@
    ```
 2. **Navigate to the cloned directory:**
    ```bash
-cd matheval```
+   cd matheval
+   ```
 3. **Compile the Java source code:**
    ```bash
-javac MathExpressionEvaluator.java
-```
+   javac MathExpressionEvaluator.java
+   ```
 4. **Run the application:**
    ```bash
-java MathExpressionEvaluator
-
+   java MathExpressionEvaluator
+   ```
 ### Input Format
 The application prompts you to enter a mathematical expression. You can enter expressions like:
 
