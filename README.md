@@ -14,7 +14,7 @@
    ```
 2. **Navigate to the cloned directory:**
    ```bash
-   cd matheval
+   cd matheval/src
    ```
 3. **Compile the Java source code:**
    ```bash
