@@ -11,16 +11,18 @@
 1. **Clone this repository to your local machine:**
    ```bash
    git clone https://github.com/aramali0/matheval.git
-
+   ```
 2. **Navigate to the cloned directory:**
    ```bash
-cd matheval
+cd matheval```
 3. **Compile the Java source code:**
    ```bash
 javac MathExpressionEvaluator.java
+```
 4. **Run the application:**
    ```bash
 java MathExpressionEvaluator
+
 ### Input Format
 The application prompts you to enter a mathematical expression. You can enter expressions like:
 
@@ -49,6 +51,7 @@ Result: 10.0
 
 Enter an expression (or 'q' to quit): q
 Exiting the program.
+```
 
 ### Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
